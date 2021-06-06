@@ -70,7 +70,7 @@ html, body {
 }
 
 .center {
-    width: 600px;
+    width: 1200px;
 	padding: 2%;
     margin: 100px auto;
  	background: rgba(108, 151, 230, 0.75); /*this uses opacity of 75% for the background color*/
