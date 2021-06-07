@@ -86,14 +86,14 @@ html, body {
 }
 
 h1 {
-	/*<link rel="stylesheet" href="https://use.typekit.net/wpe6lqv.css*/font-family: 'MARINE', sans serif;*/
+	/*<link rel="stylesheet" href="https://use.typekit.net/wpe6lqv.css*/font-family: 'MARINE', sans serif;
 	font-size: 2em;
     margin: 0px auto 10px auto;
     color: #fff;
 }
 
 h2 {
-	 /*<link rel="stylesheet" href="https://use.typekit.net/wpe6lqv.css*/font-family: 'MARINE', sans serif;*/
+	 /*<link rel="stylesheet" href="https://use.typekit.net/wpe6lqv.css*/font-family: 'MARINE', sans serif;
 	font-size: 1.5em;
     line-height: 1.4;
     color: #fff;
@@ -102,7 +102,7 @@ h2 {
 }
 
 p {
-	/*<link rel="stylesheet" href="https://use.typekit.net/wpe6lqv.css*/font-family: 'MARINE', sans serif;*/
+	/*<link rel="stylesheet" href="https://use.typekit.net/wpe6lqv.css*/font-family: 'MARINE', sans serif;
 	font-size: 1.2em;
     line-height: 1.6;
     color: #fff;
